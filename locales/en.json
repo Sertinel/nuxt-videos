@@ -1,0 +1,15 @@
+{
+  "welcome": "Welcome",
+  "home": "Home",
+  "admin": "Admin",
+  "addVideo": "Add Video",
+  "updateVideo": "Update Video",
+  "noVideos": "No videos available.",
+  "existingVideos": "Existing Videos",
+  "remove": "Remove",
+  "edit": "Edit",
+  "cancel": "Cancel",
+  "videoTitle": "Title:",
+  "videoUrl": "Video URL:",
+  "playerSettings": "Player Settings (JSON):"
+}

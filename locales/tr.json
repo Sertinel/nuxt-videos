@@ -1,0 +1,15 @@
+{
+  "welcome": "Hoş Geldiniz",
+  "home": "Ana Sayfa",
+  "admin": "Yönetici",
+  "addVideo": "Video Ekle",
+  "updateVideo": "Videoyu Güncelle",
+  "noVideos": "Hiç video yok.",
+  "existingVideos": "Mevcut Videolar",
+  "remove": "Kaldır",
+  "edit": "Düzenle",
+  "cancel": "İptal",
+  "videoTitle": "Başlık:",
+  "videoUrl": "Video URL'si:",
+  "playerSettings": "Oynatıcı Ayarları (JSON):"
+}
