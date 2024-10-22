@@ -1,5 +1,5 @@
 import { createError, defineEventHandler, readBody } from 'h3';
-import knex from '../database/knex';
+import knex from '../database/knex.js';
 
 export default defineEventHandler(async (event) => {
   const method = event.req.method;

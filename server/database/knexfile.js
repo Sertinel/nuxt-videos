@@ -5,9 +5,9 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 export default {
-  client: 'sqlite3',
+  client: 'better-sqlite3',
   connection: {
-    filename: join(__dirname, 'db.sqlite3')
+    filename: join(__dirname, 'mydb.sqlite')
   },
   useNullAsDefault: true,
   migrations: {

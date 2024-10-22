@@ -27,6 +27,11 @@ export default defineNuxtConfig({
     },
   },
   build: {
-    transpile: ['vidstack'],
+    transpile: ['vidstack', 'sqlite3'],
+  },
+  nitro: {
+    externals: {
+      inline: ['knex', 'sqlite3'],
+    }
   },
 });
